@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: Sport Climbing
 description: A description of this category
 image:
 
