@@ -1,7 +1,7 @@
 # Change baseurl before deploy
-baseurl = "https://nicomtn.com/adventures"
+baseurl = "https://adv.nicomtn.com/"
 locale  = "en-us"
-title   = "Adventures"
+title   = "Mountain Adventures"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n

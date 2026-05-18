@@ -1,7 +1,7 @@
 ---
-title: Dentelles Climbing with Dad
-description: Dentelles Climbing with Dad
-slug: dentelles-climbing-with-dad
+title: Dentelles Climbing 1
+description: Dentelles Climbing
+slug: dentelles-climbing-1
 date: 2026-05-09 00:00:00+0000
 image: cover.jpg
 categories:
